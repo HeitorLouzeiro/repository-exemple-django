@@ -1,6 +1,6 @@
 asgiref==3.7.2
 autopep8==2.0.4
-Django==4.2.5
+Django==5.0
 flake8==6.1.0
 mccabe==0.7.0
 mypy==1.5.1
